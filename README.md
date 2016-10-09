@@ -7,7 +7,7 @@
 3- { sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-dev libevent-dev make unzip git redis-server g++ libjansson-dev libpython-dev expat libexpat1-dev }
 
  
-4-  {  git clone https://github.com/variousddddd/powergate.git -b supergroups  }
+4-  {  git clone https://github.com/tesla356/powergate.git -b supergroups  }
 
 5- {  cd powergate }
 
